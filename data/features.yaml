@@ -15,7 +15,7 @@ about:
 skills:
   - groupName: Languages
     list:
-      - Kotlin - Java
+      - Kotlin - Java - Python - Rust
   - groupName: Frameworks
     list:
       - Vert.x - Spring Boot - HTTP4K
@@ -32,11 +32,6 @@ skills:
     list:
       - AWS - Kubernetes - Terraform
       - New Relic - Grafana - Prometheus
-
-interests:
-  - Economics
-  - Human psychology & development
-  - Piano
 
 languages:
   - name: Polish

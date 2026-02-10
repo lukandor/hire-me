@@ -62,17 +62,19 @@ params:
       widget: word-list
       style: compact # list, compact, title-list
     - feature: education
-    - feature: interests
-      widget: word-list
-      style: list
+#    - feature: interests
+#      widget: word-list
+#      style: list
   pages:
     - features:
         - feature: about
           title: About Me
         - feature: experience
-#        - feature: projects
-#        - feature: certificates
-#          title: Certifications
+    - features:
+        - feature: experience
+          title: Experience (continued)
+        - feature: certificates
+          title: Certifications
   experience:
     tools: 
       show: false

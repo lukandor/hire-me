@@ -1,15 +1,40 @@
+- company: Delivery Hero
+  page: 1
+  roles:
+    - role: Software Engineer II
+      tools: Kotlin, AWS, Kubernetes, Docker, PostgreSQL, Kafka, Microservices, RESTful APIs, Terraform, Grafana, Prometheus
+      details: |
+        - Working on core backend services anti-fraud data layer.
+        - Providing and aggregating the data for the ML models
+        - Developed the Flink Autoscaler (to scale the capacity up and down, depending on the load) and Flink Snapshotter (to periodically create Flink snapshots)
+        - Reduced the build time by 50% by reducing the amount of data uploaded to the Docker daemon
+
+        **Technologies used**: Kotlin, Coroutines, AWS, Kubernetes, Docker, PostgreSQL, Flink, Kafka, Microservices, RESTful APIs, Terraform, Grafana, Prometheus.
+      date: 05.2025 - Present
+
+- company: Trade Republic
+  page: 1
+  roles:
+    - role: Software Engineer
+      tools: Kotlin, Java, PostgreSQL, AWS, Kubernetes, Docker, Kafka, Microservices, Spring Boot
+      details: |
+        - Developed backend services for tax processing platform.
+
+        **Technologies used**: Kotlin, PostgreSQL, AWS, Kubernetes, Docker, Kafka, Microservices, Spring Boot.
+      date: 12.2024 - 04.2025
+
 - company: OLX Group
   page: 1
-  roles: 
+  roles:
     - role: Software Engineer
       tools: Kotlin, Spring Boot, PostgreSQL, AWS, Kubernetes, Docker, Java, J2EE, Hibernate, Maven, Jenkins, RESTful APIs, Microservices,  JUnit, Mockito, IntelliJ IDEA, Gradle
       details: |
         - Integrated OLX Payments with payment service providers in Latin America, enhancing the payment processing efficiency and reducing transaction failures by 20%.
         - Created backend solution for OLX KYC process, improving customer verification time by 30%.
         - Acted as a KYC domain expert, contributing to the overall evolution of the platform, leading to a 15% increase in platform stability and performance.
-        
+
         **Technologies used**: Kotlin, Spring Boot, PostgreSQL, AWS, Kubernetes, Docker, Java, J2EE, Hibernate, Maven, Jenkins, RESTful APIs, Microservices, JUnit, Mockito, IntelliJ IDEA.
-      date: 06.2019 - now
+      date: 06.2019 - 11.2024
     
     - role: Junior Software Developer
       tools: Spring Boot, Java, PostgreSQL, Docker, Kubernetes, AWS, J2EE, Hibernate, Maven, Jenkins, RESTful APIs, Microservices, JUnit, Mockito, IntelliJ IDEA, New Relic, Gradle
@@ -19,18 +44,11 @@
         
         **Technologies used**: Kotlin, Spring Boot, PostgreSQL, AWS, Kubernetes, Docker, Java, J2EE, Hibernate, Maven, Jenkins, RESTful APIs, Microservices, JUnit, Mockito, IntelliJ IDEA.
 - company: Atos
-  page: 1
+  page: 2
   roles:
     - role: Junior Software Developer
       details: |
         - Created applications optimizing real-estate lease management processes, reducing lease processing time by 50% and increasing accuracy by 35%.
-        
+
         **Technologies used**: Angular, Java, PostgreSQL, Spring Boot, Hibernate, Maven, Jenkins, RESTful APIs, Servlets, JUnit, Mockito, IntelliJ IDEA
       date: 2017 - 2018
-
-- company: Certifications
-  page: 1
-  roles:
-    - role: "Oracle Certified Associate, Java SE 8 Programmer"
-    - role: "HashiCorp Certified: Terraform Associate"
-    - role: "CKAD: Certified Kubernetes Application Developer"
